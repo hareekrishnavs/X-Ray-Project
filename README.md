@@ -6,3 +6,4 @@ Experimentation codes
 2. I-JEPA
 3. RGBToXray - DETCompass
 4. RAXO Full implementation
+5. RAXO Synthetic Xray
