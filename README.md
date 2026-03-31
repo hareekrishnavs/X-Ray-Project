@@ -7,3 +7,4 @@ Experimentation codes
 3. RGBToXray - DETCompass
 4. RAXO Full implementation
 5. RAXO Synthetic Xray
+6. RAXO implemetation with synthetic image generation
